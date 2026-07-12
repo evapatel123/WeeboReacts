@@ -10,18 +10,18 @@ Built as a fun demonstration of Canvas animation, UI interactions, and frontend 
 
 ## ✨ Features
 
-- 👀 Mouse tracking
-- 😊 Dynamic facial expressions
-- 😆 Random blinking animation
-- 💬 Speech bubble reactions
-- 🎈 Particle effects
-- 😡 Angry mode
-- 💥 Collapse and reappear animation
-- 🌊 Floating idle animation
-- 📱 Responsive design
-- ⚡ Pure HTML, CSS & JavaScript
-- 🎨 No external libraries
-- 🖥️ HTML5 Canvas rendering
+- Mouse tracking
+- Dynamic facial expressions
+- Random blinking animation
+- Speech bubble reactions
+- Particle effects
+- Angry mode
+- Collapse and reappear animation
+- Floating idle animation
+- Responsive design
+- Pure HTML, CSS & JavaScript
+- No external libraries
+- HTML5 Canvas rendering
 
 ---
 
