@@ -28,7 +28,7 @@ Built as a fun demonstration of Canvas animation, UI interactions, and frontend 
 
 ## 🚀 Live Demo
 
-On GitHub Pages: 
+On GitHub Pages: https://evapatel123.github.io/WeeboReacts/
 
 ## 🛠️ Built With
 
