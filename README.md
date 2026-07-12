@@ -143,7 +143,3 @@ This project was created to explore interactive frontend development using the H
 
 It serves as a fun demonstration of animation principles, user interaction, and creative interface design.
 
----
-
-
-Made with ❤️ using HTML5 Canvas.
